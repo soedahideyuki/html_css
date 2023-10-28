@@ -1,0 +1,32 @@
+.flexbox-container{
+  display:flex;
+ 
+  padding: 5px;
+  background-color: lightcyan;
+}
+.flexbox-item{
+  padding: 5px;
+  margin: 5px;
+  background-color: orange;
+}
+#item01{
+  flex-basis: 150px;
+}
+#item02{
+  flex-basis: 25%;
+}
+#item03{
+ 
+}
+#item04{
+  
+}
+#item05{
+}
+#item06{
+ 
+}
+#item07{
+}
+#item08{
+}

@@ -1,0 +1,15 @@
+p{
+  background-color: yellow;
+}
+#first-span{
+  margin: 100px;
+  background-color: lightblue;
+}
+#second-span{
+  margin: 100px;
+  background-color: lightgreen;
+}
+#third-span{
+  margin: 100px;
+  background-color: lightgray;
+}

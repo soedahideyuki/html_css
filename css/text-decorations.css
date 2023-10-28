@@ -1,0 +1,19 @@
+.decoration{
+  /* ここにCSSを記入 */
+  font-size: 48px;
+  color: rgb(255,0,0);
+  font-weight: bold;
+  font-family: 'Courier New', Courier, monospace;
+  font-style: italic;
+  line-height: 4.5;
+  letter-spacing:1.5em;
+  text-decoration: underline;
+  text-decoration: line-through;
+  border: solid 3px red;
+  background-color: blue;
+  text-shadow: 1px 1px 2px gray;
+  text-align: center;
+}
+.text-bold{
+  font-weight: 100;
+}
